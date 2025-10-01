@@ -70,20 +70,20 @@ Scrape reviews from specified source with optional filtering.
 ***Success Response (200)***:
 
     ```json
-{
-  "count": 5,
-  "reviews": [
-    {
-      "title": "Excellent product for team collaboration",
-      "review": "We've been using this product for over a year...",
-      "date": "2024-06-15T00:00:00.000Z",
-      "rating": 4.5,
-      "reviewer": "John Doe",
-      "source": "g2",
-      "url": "https://www.g2.com/products/slack/reviews"
-    }
-  ]
-}
+       {
+         "count": 5,
+         "reviews": [
+               {
+                  "title": "Excellent product for team collaboration",
+                  "review": "We've been using this product for over a year...",
+                  "date": "2024-06-15T00:00:00.000Z",
+                  "rating": 4.5,
+                  "reviewer": "John Doe",
+                  "source": "g2",
+                  "url": "https://www.g2.com/products/slack/reviews"
+                }
+            ]
+        }
 
 ### 🎯 Usage Examples 
 ## Using curl
