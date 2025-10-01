@@ -143,3 +143,14 @@ Cheerio - HTML parsing
 Date-fns - Date manipulation
 
 CORS - Cross-origin resource sharing
+
+
+## 🧑‍💻 Author
+
+**Sharath Chandra Akkaldevi**
+
+---
+
+## 📝 License
+
+This project is part of a technical assignment and is intended for educational/demo purposes.
