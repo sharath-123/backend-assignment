@@ -1,0 +1,41 @@
+{
+    "count": 4,
+    "reviews": [
+        {
+            "title": "Best in class Slack solution",
+            "review": "After trying several alternatives, Slack stands out for its reliability and comprehensive feature set. The mobile app works flawlessly and the uptime has been perfect.",
+            "date": "2024-08-05T00:00:00.000Z",
+            "rating": 5,
+            "reviewer": "Emily Chen",
+            "source": "g2",
+            "url": "https://www.g2.com/products/slack/reviews"
+        },
+        {
+            "title": "Good but has some limitations",
+            "review": "Overall Slack is good for basic use cases. However, we encountered some limitations with advanced reporting features. Hope they improve this in future updates. Customer support was helpful though.",
+            "date": "2024-01-10T00:00:00.000Z",
+            "rating": 3.5,
+            "reviewer": "Mike Johnson",
+            "source": "g2",
+            "url": "https://www.g2.com/products/slack/reviews"
+        },
+        {
+            "title": "Solid solution with great features",
+            "review": "Slack offers all the features we need at a reasonable price. The integration with other tools was seamless and our team adapted quickly. The mobile app is particularly well-designed.",
+            "date": "2024-03-20T00:00:00.000Z",
+            "rating": 4,
+            "reviewer": "Sarah Wilson",
+            "source": "g2",
+            "url": "https://www.g2.com/products/slack/reviews"
+        },
+        {
+            "title": "Excellent Slack for our team workflow",
+            "review": "We've been using Slack for over a year and it has significantly improved our team collaboration. The interface is intuitive and the customer support is responsive. Would highly recommend to other teams.",
+            "date": "2024-06-15T00:00:00.000Z",
+            "rating": 4.5,
+            "reviewer": "John Doe",
+            "source": "g2",
+            "url": "https://www.g2.com/products/slack/reviews"
+        }
+    ]
+}
